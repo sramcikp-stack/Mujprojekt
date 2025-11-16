@@ -1,11 +1,1 @@
-[
-  {"account":"Lady Falen","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Samsula","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 3","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 4","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 5","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 6","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 7","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 8","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"},
-  {"account":"Osada 9","stone":0,"wood":0,"iron":0,"timestamp":"2025-01-01T00:00:00Z"}
-]
+"[{\"account\":\"Lady Falen\",\"stone\":173,\"wood\":633,\"iron\":231,\"timestamp\":\"2025-11-16T23:00:45.052Z\"},{\"account\":\"Samsula\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 3\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 4\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 5\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 6\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 7\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 8\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"},{\"account\":\"Osada 9\",\"stone\":0,\"wood\":0,\"iron\":0,\"timestamp\":\"2025-01-01T00:00:00Z\"}]"
