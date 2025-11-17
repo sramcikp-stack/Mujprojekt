@@ -1,1 +1,8 @@
-"[{\"account\":\"Lady Faelan osada\",\"stone\":1640,\"wood\":2720,\"iron\":2489,\"timestamp\":\"2025-11-16T23:31:42.180Z\"}]"
+[
+  {
+    "account": "Lady Falen",
+    "stone": 0,
+    "wood": 0,
+    "iron": 0,
+    "timestamp": "2025-01-01T00:00:00Z"
+  }
