@@ -1,7 +1,9 @@
-{
-  "account": "Lady Faelan",
-  "stone": 3262,
-  "wood": 5561,
-  "iron": 4299,
-  "timestamp": "2025-11-17T07:37:36.044Z"
-}
+[
+  {
+    "account": "Lady Faelan",
+    "stone": 3262,
+    "wood": 5561,
+    "iron": 4299,
+    "timestamp": "2025-11-17T07:37:36.044Z"
+  }
+]
