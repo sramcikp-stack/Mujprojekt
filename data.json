@@ -1,9 +1,7 @@
-[
-  {
-    "account": "Lady Falen",
-    "stone": 0,
-    "wood": 0,
-    "iron": 0,
-    "timestamp": "2025-01-01T00:00:00Z"
-  }
-]
+{
+  "account": "Lady Faelan",
+  "stone": 0,
+  "wood": 0,
+  "iron": 0,
+  "timestamp": "2025-01-01T00:00:00Z"
+}
